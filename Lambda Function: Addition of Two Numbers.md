@@ -21,5 +21,5 @@ print(result)
 <img width="434" height="273" alt="image" src="https://github.com/user-attachments/assets/9ecb1403-af5d-4c38-9f9b-095adcc110b8" />
 
 ## Result
-The program successfully defines a lambda function that computes the sum of two numbers and prints the result.
+The program successfully defines a lambda function that this computes the sum of two numbers and prints the result.
 
